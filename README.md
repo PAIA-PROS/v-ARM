@@ -7,8 +7,8 @@ v-ARM 是一個以 Unity ML-Agents 製作的「行動操作機器人」（mobile
 
 ## 下載
 
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-2.0.0-blue?logo=windows)](https://github.com/PAIA-PROS/v-ARM/releases/download/2.0.0/v-ARM-win32-2.0.0.zip)
-[![macOS](https://img.shields.io/badge/macOS-2.0.0-red?logo=apple)](https://github.com/PAIA-PROS/v-ARM/releases/download/2.0.0/v-ARM-darwin-universal-2.0.0.zip)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-2.1.0-blue?logo=windows)](https://github.com/PAIA-PROS/v-ARM/releases/download/2.1.0/v-ARM-win32-2.1.0.zip)
+[![macOS](https://img.shields.io/badge/macOS-2.1.0-red?logo=apple)](https://github.com/PAIA-PROS/v-ARM/releases/download/2.1.0/v-ARM-darwin-universal-2.1.0.zip)
 
 ## 遊戲敘述
 
