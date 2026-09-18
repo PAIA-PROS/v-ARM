@@ -9,8 +9,8 @@ v-ARM 是「行動操作機器人」（mobile manipulator）訓練環境：一�
 
 ## 下載
 
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-3.0.0-blue?logo=windows)](https://github.com/PAIA-PROS/v-ARM/releases/download/3.0.0/v-ARM-win32-3.0.0.zip)
-[![macOS](https://img.shields.io/badge/macOS-3.0.0-red?logo=apple)](https://github.com/PAIA-PROS/v-ARM/releases/download/3.0.0/v-ARM-darwin-universal-3.0.0.zip)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-3.0.1-blue?logo=windows)](https://github.com/PAIA-PROS/v-ARM/releases/download/3.0.1/v-ARM-win32-3.0.1.zip)
+[![macOS](https://img.shields.io/badge/macOS-3.0.1-red?logo=apple)](https://github.com/PAIA-PROS/v-ARM/releases/download/3.0.1/v-ARM-darwin-universal-3.0.1.zip)
 
 2.1.0 及更早的 Unity 版本仍可在 [Releases](https://github.com/PAIA-PROS/v-ARM/releases) 頁面下載。
 
